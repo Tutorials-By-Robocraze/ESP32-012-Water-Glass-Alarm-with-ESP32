@@ -19,5 +19,6 @@ Never forget to drink water on time! This Water Glass Alarm uses an ESP32, micro
 ---
 
 ## Circuit Diagram
-![Glass Alarm Circuit](./glass_alarm_circuit_diagram.png)
+![Glass Alarm Circuit](./glass_alarm_circuit_diagram.png) 
+
 ---
